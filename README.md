@@ -5,7 +5,7 @@ Project ini dibuat sebagai simulasi pembelajaran Vibe Coding Dasar.
 ## Informasi Project
 
 - Dibuat oleh: Achmad Rizky
-- Tanggal: Sesuaikan dengan waktu pengerjaan
+- Tanggal: 30 Apr 2026 00.27
 - Repository: https://github.com/rizky-dev27/fenomena-vibe-coding.git
 
 ## Rencana Tugas
