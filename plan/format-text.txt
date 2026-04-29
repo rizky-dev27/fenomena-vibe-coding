@@ -1,0 +1,15 @@
+Plan membuat format text menggunakan HTML
+##
+
+- Buatkan issue ext .md file di folder issues/01-xxx
+- Jangan di implementasikan dulu ya!
+
+Technology:
+- HTML
+
+NOTE:
+- Buatkan 5 paragraf cerita komik
+- Menggunakan format text HTML
+- Seperti Bold, Italic, Underline dst..
+- Berikan rekomendasi format text yang ada di HTML, gunakan semua
+- file index.html
