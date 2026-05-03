@@ -10,10 +10,20 @@ Project ini dibuat sebagai simulasi pembelajaran Vibe Coding Dasar.
 
 ## Rencana Tugas
 
-1. Membuat format teks menggunakan HTML.
-2. Membuat tabel data siswa menggunakan HTML.
+1. Membuat format teks menggunakan HTML (Cerita apa saja).
+2. Membuat tabel data siswa menggunakan HTML (3 Table).
+   - Data Siswa 10 (Field bebas)
+   - Data Guru 20 (Field bebas)
+   - Data Mata Pelajaran (30 Pelajaran)
 3. Membuat formulir pendaftaran siswa online menggunakan HTML dan CSS.
-4. Membuat halaman company profile sekolah.
+   - Login
+   - Register
+   - Formuliar Online
+4. Membuat halaman company profile pribadi.
+   - Beranda
+   - Tentang Kami
+   - Galeri
+   - Kontak Kami
 
 ## Alur Pengerjaan
 
